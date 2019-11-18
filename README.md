@@ -1,0 +1,1 @@
+This project is testing git actions where the project was created in WSL Ubuntu file structure and pushed from Ubuntu, as compared to the project being created from Ubuntu but on the Windows directory side.
